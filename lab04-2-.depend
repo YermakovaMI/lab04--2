@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558896955 source:m:\document\prog_c++\lab04-2-\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<vector>
+
+1558897202 source:e:\лаба\lab04-2-\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<vector>
+
